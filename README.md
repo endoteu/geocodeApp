@@ -24,5 +24,5 @@ The script returns all avilable Providers.
 # Scalability
 Because of the fact that each provider has his own class, and every provider must implement the common interface, it is very easy to add more providers.
 
-# BaseUrl
-The BaseUrl variable in src/app/ geocode.service.ts and provider.service.ts must be set to the address where the backend is hosted.
+# baseUrl variable
+The baseUrl variable in src/app/ geocode.service.ts and provider.service.ts must be set to the address where the backend is hosted.
